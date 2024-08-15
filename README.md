@@ -1,11 +1,12 @@
-# EMPLOYEE ATTRITION ANALYSIS 
+# HR ANALITICS DASHBOARD  
+---
 
-### Dashboard Link :"C:\Users\jaibh\OneDrive\Documents\HR_ANALYTICS_data.pbix"
+### [HR ANALYTICS](HR_ANALYTICS_data.pbix)
 
-### Description 
-The "Employee Attrition" data analytics project aims to investigate the factors contributing to employee turnover within an organization. By analyzing historical employee data, including demographics, job roles, performance metrics, and exit reasons, the project seeks to uncover patterns and predictors of attrition. The insights gained will be used to develop predictive models and actionable recommendations to improve employee retention strategies. The ultimate goal is to help the organization reduce turnover rates, enhance workforce stability, and optimize human resource practices, thereby contributing to overall organizational success.
+### Project Overview 
+The "HR analytics " data analytics project aims to investigate the factors contributing to employee turnover within an organization. By analyzing historical employee data, including demographics, job roles, performance metrics, and exit reasons, the project seeks to uncover patterns and predictors of attrition. The insights gained will be used to develop predictive models and actionable recommendations to improve employee retention strategies. The ultimate goal is to help the organization reduce turnover rates, enhance workforce stability, and optimize human resource practices, thereby contributing to overall organizational success.
 
-#### dataset  
+#### Dataset  
 Data collected  from [Kaggle](www.kaggle.com) 
 #### Tools 
 - Excel
